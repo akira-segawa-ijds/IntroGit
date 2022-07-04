@@ -4,3 +4,4 @@ first edit
 second edit
 git remove
 aaaa
+git diff
