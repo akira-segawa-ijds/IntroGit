@@ -1,3 +1,4 @@
 First Git!
 
-fist edit
+first edit
+second edit
